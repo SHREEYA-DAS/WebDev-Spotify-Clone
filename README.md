@@ -3,7 +3,7 @@
 <h1>Spotify Clone</h1>
 
 <p align="center">
-  <img src="https://raw.github.com/SHREEYA-DAS/WebDev-Spotify-Clone/master/Images/demo.png" alt="Spotify Clone by Shreeya Das" height="300"/>
+  <img src="https://raw.github.com/SHREEYA-DAS/WebDev-Spotify-Clone/main/Images/demo.png" alt="Spotify Clone by Shreeya Das" height="300"/>
 
 <p>🎵 Spotify Clone - A responsive web application mimicking the popular music streaming platform. This project is built using HTML, CSS, and JavaScript, providing users with a sleek interface to explore and play a curated list of K-Pop tracks. Features include play controls, song progress bar, and a visually appealing song list.</p>
 
