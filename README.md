@@ -23,4 +23,4 @@
 </ul>
 
 <h2>Demo:</h2>
-[Demo Link](https://github.com/SHREEYA-DAS/WebDev-Spotify-Clone/blob/main/index.html)
+[Demo Link](https://github.com/SHREEYA-DAS/WebDev-Spotify-Clone/blob/main/index.html)https://github.com/SHREEYA-DAS/WebDev-Spotify-Clone/blob/main/index.html
